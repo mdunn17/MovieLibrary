@@ -1,0 +1,13 @@
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.exe
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.deps.json
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.runtimeconfig.json
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.runtimeconfig.dev.json
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.dll
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\MovieLibrary.pdb
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.AssemblyInfo.cs
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.dll
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.pdb
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.genruntimeconfig.cache
