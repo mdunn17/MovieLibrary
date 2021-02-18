@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using NLog.Web;
 
 namespace MovieLibrary
 {
@@ -6,7 +8,7 @@ namespace MovieLibrary
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
