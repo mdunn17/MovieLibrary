@@ -49,9 +49,7 @@ namespace MovieLibrary
                         Console.WriteLine("This movie already exists.");
                         logger.Info("Program closed.");
                     }
-                    
                 }
-
             }
             
             else if (resp == "2")
@@ -65,8 +63,7 @@ namespace MovieLibrary
                     }
                     logger.Info("Program closed.");
                     sw.Close();
-                }
-                        
+                }      
             }
         }
     }
