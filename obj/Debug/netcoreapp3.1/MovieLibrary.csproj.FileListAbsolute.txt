@@ -11,3 +11,7 @@ C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1
 C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.dll
 C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.pdb
 C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.genruntimeconfig.cache
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\megun\Desktop\College\.NetDatabase\MovieLibrary\obj\Debug\netcoreapp3.1\MovieLibrary.csproj.CopyComplete
